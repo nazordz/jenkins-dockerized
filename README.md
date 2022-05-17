@@ -25,3 +25,10 @@ Change parameter to your configuration
 ```bash
 java -jar jenkins-cli.jar -s <url> -auth <username>:<password> help
 ```
+
+## Additional Tool
+1. Ngrok (Forwarding port 8080)
+
+# Jenkins Plugins
+1. Generic Webhook Trigger
+2. NodeJS
